@@ -26,7 +26,7 @@
   "devDependencies": {
     "ava": "^0.17.0",
     "mockery": "^1.4.0",
-    "sinon": "^1.17.2",
+    "sinon": "^8.1.1",
     "xo": "^0.17.1"
   },
   "xo": {
