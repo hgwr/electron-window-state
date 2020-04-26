@@ -19,7 +19,7 @@
     "index.js"
   ],
   "dependencies": {
-    "deep-equal": "^1.0.1",
+    "deep-equal": "^2.0.3",
     "jsonfile": "^2.2.3",
     "mkdirp": "^0.5.1"
   },
